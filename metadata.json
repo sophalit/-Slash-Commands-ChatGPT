@@ -1,0 +1,7 @@
+{
+  "name": "Master AI Image Prompt Generator",
+  "description": "Senior Creative Director and AI Image Prompt Engineering Studio powered by the DMD 100+ Visual Commands System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
